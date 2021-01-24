@@ -1,6 +1,6 @@
 # mini-clothes-shop
-HTML, CSS, JS (Implementing a static filter that works within html)
-Sample database : data/data.json
+* HTML, CSS, JS (Implementing a static filter that works within html)
+* Sample database : data/data.json
 
 ### 1. Result
 
